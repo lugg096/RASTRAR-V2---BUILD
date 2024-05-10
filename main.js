@@ -525,9 +525,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "environment", function() { return environment; });
 const environment = {
     production: false,
-    url: 'http://18.230.79.100:8082/',
-    url2: 'http://18.230.79.100:8082',
-    url_STAMP: 'http://18.230.79.100:8085/',
+    /* url: 'http://18.230.79.100:8082/',
+    url2:'http://18.230.79.100:8082', */
+    url: 'https://app.rastrar.com/',
+    url2: 'https://app.rastrar.com',
+    // url_STAMP: 'http://18.230.79.100:8085/',
+    url_STAMP: 'https://app.rastrar.com/contract/',
     node: 'http://34.229.8.55:4545',
     TOKEN_KEY: 'user-rastrar',
     /* VARIABLES SMART CONTRACT */
