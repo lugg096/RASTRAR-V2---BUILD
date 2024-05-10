@@ -1944,7 +1944,7 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "JwPaginationComponent", function() { return JwPaginationComponent; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "JwPaginationModule", function() { return JwPaginationModule; });
-/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "O1h7");
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "7lT8");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "fXoL");
 /* harmony import */ var jw_paginate__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! jw-paginate */ "TNpa");
 /* harmony import */ var jw_paginate__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(jw_paginate__WEBPACK_IMPORTED_MODULE_2__);
